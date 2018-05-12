@@ -1,0 +1,28 @@
+_repo: Principle-and-PracticeThe-Orphan-Family_23131
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Martineau, Harriet
+    birthdate: 1802
+    deathdate: 1876
+    gutenberg_agent_id: '25319'
+    url: http://www.gutenberg.org/2009/agents/25319
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Martineau
+description: ''
+gutenberg_issued: '2007-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23131'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Orphans -- Fiction'
+- !lcsh 'Brothers and sisters -- Fiction'
+- !lcc 'PR'
+title: 'Principle and Practice: The Orphan Family'
+url: http://www.gutenberg.org/ebooks/23131
